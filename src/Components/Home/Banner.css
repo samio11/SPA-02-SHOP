@@ -1,0 +1,7 @@
+.bg1{
+    background-image: url('https://5.imimg.com/data5/WD/DO/TO/ANDROID-85600720/product-jpeg-500x500.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
